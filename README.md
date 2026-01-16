@@ -42,5 +42,5 @@ Please refer to that file to see the exact queries and solutions implemented for
 
 ---
 
-👨‍💻 **Author:** Nama Shah  
+👨‍💻 **Author:** Naman Shah  
 📅 **Project Type:** Academic / Portfolio Showcase
